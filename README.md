@@ -1,5 +1,5 @@
 # demo
 
-first sentence !
+first sentence .
 
 2nd chamge in sentance ?
